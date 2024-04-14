@@ -1,10 +1,10 @@
 # Overview
 
-Epoch is an open source multimedia world building project that aims to create a collection of media based off a single short story: [The Event](./Lore/The_Event/The_Event.md). Anybody is able to contribute to the project and if you do not like the direction in which it is headed simply fork the repo and make it your own.
+Epoch is an open source multimedia world building project that aims to create a collection of media based off a single short story: [The Event](<./Lore/The Event/The_Event.md>). Anybody is able to contribute to the project and if you do not like the direction in which it is headed simply fork the repo and make it your own.
 
 # Contribution Guidelines
 
-- Content contributions should be in some way related to [The Event](./Lore/The_Event/The_Event.md) even if only tangentially.
+- Content contributions should be in some way related to [The Event](<./Lore/The_Event/The Event.md>) even if only tangentially.
 - Any new lore contributed to the project should include an addition to the [Timeline](./Lore/Timeline/Timeline.md).
 - All media contributed should be original, unique, and not created by generative AI like Chat GPT, DALLE, etc.
 - Avoid using or making references to current events in your media.
