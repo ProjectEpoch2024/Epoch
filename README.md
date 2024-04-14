@@ -10,6 +10,7 @@ Epoch is an open source multimedia world building project that aims to create a 
 - Avoid using or making references to current events in your media.
 - Avoid using or making references to current popular individuals in your media.
 - Include media related to an existing story in its respective Lore folder.
+- Text based media should be written in markdown you can read more about the markdown format [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 # FAQ
